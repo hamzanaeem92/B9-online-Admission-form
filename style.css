@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(231, 229, 229); 
+    padding: 50px;
+}
+.heading {
+    background-color: #384484; 
+    padding: 12px;
+    margin: 2px;
+    border-radius: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.white { 
+    padding: 35px;
+    background-color: white;
+}
+.first { margin: 8px;
+    padding: 5px;
+}
+.gitlink{
+    text-align: right; display: block; font-size: large; font-weight: bold; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.seccond { margin: 8px;
+    padding: 5px;
+}
+.bold{
+    font-weight: 800; 
+    font-size: large;
+}
+.img{
+    width: 200px; height:auto
+}
+.all{
+    padding: 5px;
+    margin: 8px;
+    width: 375px;
+}
+.mp4 {
+    height: 800px:;
+    width: 800px;
+}
